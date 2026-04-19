@@ -1,11 +1,11 @@
-# 🤖 Python Automation Lab
+# Python Automation Lab
 
 A growing collection of Python scripts built while learning real-world automation.  
 Each project solves a practical, everyday problem using only Python's standard library.
 
 ---
 
-## 📦 Projects
+## Projects
 
 | # | Project | Description |
 |---|---------|-------------|
@@ -15,14 +15,14 @@ Each project solves a practical, everyday problem using only Python's standard l
 
 ---
 
-## 🐍 Requirements
+## Requirements
 
 - Python 3.10+
 - No external packages — all projects use the standard library unless stated otherwise
 
 ---
 
-## 📁 Structure
+## Structure
 
 ```
 python-automation-lab/
