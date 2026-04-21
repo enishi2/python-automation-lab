@@ -7,9 +7,10 @@ Each project solves a practical, everyday problem using only Python's standard l
 
 ## Projects
 
-| # | Project | Description |
-|---|---------|-------------|
-| 01 | [Downloads Organizer](./downloads-organizer/) | Automatically sorts your Downloads folder into categorized subfolders |
+| # | Project                                         | Description |
+|---|-------------------------------------------------|-------------|
+| 01 | [Downloads Organizer](./Downloads%20Organizer/) | Automatically sorts your Downloads folder into categorized subfolders |
+| 01 | [SuperSearch](./SuperSearch/)                   | Automatically sorts your Downloads folder into categorized subfolders |
 
 > More projects coming soon!
 
